@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>喵大人博客</title>
+  
+  <subtitle>故事</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-10-14T15:12:19.469Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>喵大人</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>书籍推荐</title>
+    <link href="http://example.com/2023/10/14/read-book/"/>
+    <id>http://example.com/2023/10/14/read-book/</id>
+    <published>2023-10-14T14:59:51.000Z</published>
+    <updated>2023-10-14T15:12:19.469Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;推荐《程序员修炼之道：通向务实的最高境界》（第2版）&lt;/p&gt;
+&lt;p&gt;这本书首先的优点就是有趣，非常有趣，不止是技术，也是生活其它方面的有趣&lt;/p&gt;
+&lt;p&gt;我在阅读一些领袖心理学书籍的时候，接触到一个词，那些领袖者，他们的追求其实就是改变&lt;/p&gt;
+&lt;p&gt;改变哇！多么迷人的词语</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="阅读" scheme="http://example.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>幸福的终极</title>
+    <link href="http://example.com/2023/10/14/happy/"/>
+    <id>http://example.com/2023/10/14/happy/</id>
+    <published>2023-10-14T03:36:34.000Z</published>
+    <updated>2023-10-14T06:04:11.242Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我们很多人都渴望幸福，并且想获得幸福&lt;/p&gt;
+&lt;p&gt;我在此推荐的其实是流传于网络的《哈佛幸福公开课》&lt;/p&gt;
+&lt;p&gt;当然，哈佛幸福公开课并不一定能给你带来幸福，但是，我们首先要去了解幸福本身。&lt;/p&gt;
+&lt;p&gt;然后再去获得更具体的幸福。&lt;/p&gt;
+&lt;p&gt;明白为什么一场游戏结束之</summary>
+        
+      
+    
+    
+    
+    <category term="生活想法" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E6%83%B3%E6%B3%95/"/>
+    
+    
+    <category term="快乐" scheme="http://example.com/tags/%E5%BF%AB%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/10/14/hello-world/"/>
+    <id>http://example.com/2023/10/14/hello-world/</id>
+    <published>2023-10-14T03:36:34.000Z</published>
+    <updated>2023-10-14T05:34:36.194Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="HEXO" scheme="http://example.com/tags/HEXO/"/>
+    
+  </entry>
+  
+</feed>

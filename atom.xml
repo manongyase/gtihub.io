@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-14T15:12:19.469Z</updated>
+  <updated>2023-10-15T15:18:34.383Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>笔记软件推荐</title>
+    <link href="http://example.com/2023/10/15/note-record/"/>
+    <id>http://example.com/2023/10/15/note-record/</id>
+    <published>2023-10-15T15:08:39.000Z</published>
+    <updated>2023-10-15T15:18:34.383Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我推荐joplin进行日常笔记的记录，工作的以及非工作的&lt;/p&gt;
+&lt;p&gt;这当然和其使用便捷，可以调整同步方式，并且多平台同步有关&lt;/p&gt;
+&lt;p&gt;当然，其它的许多笔记可能拥有同样的云备份，云同步，但是我始终认为这种同步不保险，并且会超过我们自己进行同步所产生的价格。&lt;br&gt;使</summary>
+        
+      
+    
+    
+    
+    <category term="工作" scheme="http://example.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+    <category term="便捷" scheme="http://example.com/tags/%E4%BE%BF%E6%8D%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>书籍推荐</title>

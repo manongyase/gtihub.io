@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-15T15:18:34.383Z</updated>
+  <updated>2023-11-19T13:40:18.130Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生活的意义</title>
+    <link href="http://example.com/2023/11/19/mean/"/>
+    <id>http://example.com/2023/11/19/mean/</id>
+    <published>2023-11-19T13:28:04.000Z</published>
+    <updated>2023-11-19T13:40:18.130Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近刚刚阅读完《活出生命的意义》这本书,这本书更大的感触就是生活要有意义,无论贫穷还是富有.&lt;br&gt;生活的意义会让生命更加有趣,更加丰富.&lt;br&gt;天地一指,万物一马&lt;br&gt;我们生活在有用无用之间,张张驰驰,进进退退&lt;br&gt;假使我有下一代,我希望是什么呢?&lt;br&gt;平平安安,庸</summary>
+        
+      
+    
+    
+    
+    <category term="生活想法" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E6%83%B3%E6%B3%95/"/>
+    
+    
+    <category term="阅读" scheme="http://example.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>笔记软件推荐</title>
